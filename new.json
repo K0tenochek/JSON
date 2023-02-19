@@ -1,7 +1,10 @@
-		{"Full name": "Filippova Tatiana Alexeevna", 
-			"Age": 25,
-			"Number of pets": 0,
-			"Desired salary": {"Currency": "USD",
-					"Ammount": 1000} }
-
+{
+   "Full name":"Filippova Tatiana Alexeevna",
+   "Age":25,
+   "Number of pets":0,
+   "Desired salary":{
+      "Currency":"USD",
+      "Ammount":1000
+   }
+}
 					
