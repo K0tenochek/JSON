@@ -1,1 +1,13 @@
-
+{
+   "Title":"The Facebook page in the Feedback section does not load when you click on the icon",
+   "Precondition":"The app is installed",
+   "Steps":[
+      "Open the Comic con app",
+      "Tap on burger menu",
+      "Tap on the Feedback section",
+      "Tap on the Facebook icon at the bottom of the screen"
+   ],
+   "Actual Result":"The page on the social network Facebook does not load",
+   "Expected Result":"The page in the social network Facebook is loading",
+   "Attachment":"video, screen"
+}
